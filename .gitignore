@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+*.ipynb_checkpoints/
+
+salida/
+
+# Web app
+fast-delivery-peru/node_modules/
+fast-delivery-peru/dist/
+fast-delivery-peru/.vite/
